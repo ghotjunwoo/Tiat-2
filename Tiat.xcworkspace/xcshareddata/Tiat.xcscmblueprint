@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "DE75A5604AB3F26FC15E12CCC0C884EA157B4555",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "DD584B9E1D25BDE98DB897B421B79EADEF7ABED8" : 9223372036854775807,
+    "DE75A5604AB3F26FC15E12CCC0C884EA157B4555" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "D77E86E6-8D38-4877-A9B7-3BB8EAC2AB55",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "DD584B9E1D25BDE98DB897B421B79EADEF7ABED8" : "Tiat-2\/Tiat\/",
+    "DE75A5604AB3F26FC15E12CCC0C884EA157B4555" : "Tiat-2\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Tiat",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Tiat.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ghotjunwoo\/Tiat",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DD584B9E1D25BDE98DB897B421B79EADEF7ABED8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ghotjunwoo\/Tiat-2",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "DE75A5604AB3F26FC15E12CCC0C884EA157B4555"
+    }
+  ]
+}
